@@ -1,0 +1,16 @@
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.exe
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.deps.json
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.runtimeconfig.json
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.runtimeconfig.dev.json
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.dll
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\ref\Exemplos_URI.dll
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\bin\Debug\net5.0\Exemplos_URI.pdb
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.csproj.AssemblyReference.cache
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.GeneratedMSBuildEditorConfig.editorconfig
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.AssemblyInfoInputs.cache
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.AssemblyInfo.cs
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.csproj.CoreCompileInputs.cache
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.dll
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\ref\Exemplos_URI.dll
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.pdb
+C:\aula\Csharp\2021\Turma35\Exemplos_URI\Exemplos_URI\obj\Debug\net5.0\Exemplos_URI.genruntimeconfig.cache
