@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\aula\\Csharp\\2021\\Turma35\\Exemplos_URI\\Exemplos_URI\\Exemplos_URI.csproj",
+      "projectUniqueName": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Exemplos_URI\\Exemplos_URI\\Exemplos_URI.csproj",
       "projectName": "Exemplos_URI",
-      "projectPath": "C:\\aula\\Csharp\\2021\\Turma35\\Exemplos_URI\\Exemplos_URI\\Exemplos_URI.csproj",
+      "projectPath": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Exemplos_URI\\Exemplos_URI\\Exemplos_URI.csproj",
       "packagesPath": "C:\\Users\\DanieL\\.nuget\\packages\\",
-      "outputPath": "C:\\aula\\Csharp\\2021\\Turma35\\Exemplos_URI\\Exemplos_URI\\obj\\",
+      "outputPath": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Exemplos_URI\\Exemplos_URI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\DanieL\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
       }
     }
   }

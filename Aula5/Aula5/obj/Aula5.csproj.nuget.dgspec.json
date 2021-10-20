@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Aula5\\Aula5\\Aula5.csproj": {}
+  },
+  "projects": {
+    "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Aula5\\Aula5\\Aula5.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Aula5\\Aula5\\Aula5.csproj",
+        "projectName": "Aula5",
+        "projectPath": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Aula5\\Aula5\\Aula5.csproj",
+        "packagesPath": "C:\\Users\\DanieL\\.nuget\\packages\\",
+        "outputPath": "C:\\aula\\Csharp\\2021\\Turma35\\2021-2-T35-AULA\\Aula5\\Aula5\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\DanieL\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "targetAlias": "netcoreapp2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "targetAlias": "netcoreapp2.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
